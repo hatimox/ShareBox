@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+      <string-array name="list_channels">
+        <item>DropBox</item>
+        <item>Google Drive</item>
+        <item>SkyDrive</item>
+        <item>FTP Server</item>
+        <item>MediaFire</item>
+        <item>Box</item>
+    </string-array>  
+</resources>
