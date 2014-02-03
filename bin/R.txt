@@ -290,7 +290,7 @@ int id abs__submit_area 0x7f04002f
 int id abs__textButton 0x7f040013
 int id abs__title 0x7f04001b
 int id abs__up 0x7f04000b
-int id action_settings 0x7f04003d
+int id action_settings 0x7f04003e
 int id disableHome 0x7f040009
 int id edit_query 0x7f040026
 int id homeAsUp 0x7f040006
@@ -302,8 +302,9 @@ int id list_item_entry_files 0x7f04003a
 int id list_item_entry_files_count 0x7f04003b
 int id list_item_entry_folders 0x7f040038
 int id list_item_entry_folders_count 0x7f040039
+int id list_item_entry_space 0x7f04003c
 int id list_item_entry_title 0x7f040037
-int id list_item_section_text 0x7f04003c
+int id list_item_section_text 0x7f04003d
 int id normal 0x7f040001
 int id showCustom 0x7f040008
 int id showHome 0x7f040005
