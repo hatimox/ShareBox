@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/root_menu"
+        android:showAsAction="always"
+        android:title="New Account">
+        <menu>
+            <item
+                android:id="@+id/menu_dropbox"
+                android:icon="@drawable/dropbox_icon_16"
+                android:showAsAction="never"
+                android:title="DropBox"/>
+            <item
+                android:id="@+id/menu_gdrivet"
+                android:icon="@drawable/google_drive_icon_16"
+                android:showAsAction="never"
+                android:title="Google Drive"/>
+            <item
+                android:id="@+id/menu_onedrive"
+                android:icon="@drawable/google_drive_icon_16"
+                android:showAsAction="never"
+                android:title="One Drive"/>
+            <item
+                android:id="@+id/menu_webdav"
+                android:icon="@drawable/google_drive_icon_16"
+                android:showAsAction="never"
+                android:title="WebDav"/>
+            <item
+                android:id="@+id/menu_ftp"
+                android:icon="@drawable/google_drive_icon_16"
+                android:showAsAction="never"
+                android:title="FTP Server"/>
+        </menu>
+    </item>
+
+</menu>
